@@ -54,7 +54,7 @@ class PublicoReservas extends Controller
 
 
     public function crearEvento(Request $request){
-      // dd( $request->all());
+       dd( $request->all());
       // if ($request->ajax()) {
            
 
